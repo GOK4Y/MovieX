@@ -1,16 +1,35 @@
-# app
+# MovieX
 
-A new Flutter project.
+A new Flutter movie app project!
 
-## Getting Started
+## Screenshots from MovieX
 
-This project is a starting point for a Flutter application.
+### Home Screen
+<img src="assets/images/home_screen.png" width="250" />
 
-A few resources to get you started if this is your first Flutter project:
+### Favourites Screen
+<img src="assets/images/favourites_screen.png" width="250" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Watchlist Screen
+<img src="assets/images/watchlist_screen.png" width="250" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Movie Page Screen 1
+<img src="assets/images/movie_page_screen_1.png" width="250" />
+
+### Movie Page Screen 2
+<img src="assets/images/movie_page_screen_2.png" width="250" />
+
+### Search Bar 1
+<img src="assets/images/search_bar_1.png" width="250" />
+
+### Search Bar 2
+<img src="assets/images/search_bar_2.png" width="250" />
+
+### Movie Genres Screen
+<img src="assets/images/movie_genres.png" width="250" />
+
+### Movie Genre 1
+<img src="assets/images/movie_genre_1.png" width="250" />
+
+### Movie Genre 2
+<img src="assets/images/movie_genre_2.png" width="250" />
