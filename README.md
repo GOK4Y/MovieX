@@ -8,7 +8,7 @@ A new Flutter movie app project!
 <img src="assets/home_screen.png" width="250" />
 
 ### Favourites Screen
-<img src="assets/favourites_screen.png" width="250" />
+<img src="C:\Users\LENOVO\Desktop\MovieX ssler\favourites_screen.png" width="250" />
 
 ### Watchlist Screen
 <img src="assets/watchlist_screen.png" width="250" />
